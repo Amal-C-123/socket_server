@@ -1,6 +1,6 @@
 const io = require("socket.io")(8800, {
   cors: {
-    origin: "https://jobwiser-socket.onrender.com",
+    origin: "https://jobwiser.onrender.com",
   },
 });
 
